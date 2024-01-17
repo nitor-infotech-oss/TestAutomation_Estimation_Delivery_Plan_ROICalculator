@@ -1,0 +1,1 @@
+Please refer "How to Efficiently Utilize the Automation Test Estimation.docx" for detailed steps.
